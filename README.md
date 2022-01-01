@@ -1,24 +1,29 @@
 <!--
 [banner]()
 -->
-<p align="center">
-  ## Hi I´m Miguel Ángel 👋 👨‍💻
- </p>
+<h1 align="center">Hi, Soy Miguel Ángel 👋👨‍💻</h1>
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelmntezz)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/miguelmtnezz"><img src="https://github-readme-stats.vercel.app/api?username=miguelmtnezz&show_icons=true" alt="miguelmtnezz's github stats"></a>
 </p>
-  <!--
-**miguelmtnezz/miguelmtnezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Actualmente soy estudiante de 2º año como **Técnico Superior de Administración de Sistemas Informáticos en Red**, en Almería, España .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Lenguajes que estoy aprendiendo ...
+  - HTML && CSS && JS
+  - Python
+  - Powershell
+  - Ansible
+
+### 💬 Preguntame sobre ...
+  - AWS / Google Cloud / Azure
+  - Docker
+  - MySQL
+  - Seguridad y Auditoría Informática
+  - Ultimas tecnologías
+
+### Puedes localizarmen en ...
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
+[![Stackoverflow](https://img.shields.io/badge/-StackOverflow-white?style=flat-square&logo=StackOverflow&logoColor=white$link=)]()
+[![Blog](https://img.shields.io/badge/Blog-0A0A0A?style=flat-square&logo=dev.to&logoColor=white$link=)]()
+

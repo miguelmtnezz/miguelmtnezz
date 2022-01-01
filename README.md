@@ -22,7 +22,7 @@ Actualmente soy estudiante de 2º año como **Técnico Superior de Administraci�
   - Seguridad y Auditoría Informática
   - Ultimas tecnologías
 
-### Puedes localizarmen en ...
+### 🌐 Puedes localizarmen en ...
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
 [![Stackoverflow](https://img.shields.io/badge/-StackOverflow-white?style=flat-square&logo=StackOverflow&logoColor=white$link=)]()
 [![Blog](https://img.shields.io/badge/Blog-0A0A0A?style=flat-square&logo=dev.to&logoColor=white$link=)]()

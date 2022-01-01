@@ -1,7 +1,7 @@
 <!--
 [banner]()
 -->
-<h1 align="center">Hi, Soy Miguel Ángel 👋👨‍💻</h1>
+<h1 align="center">Hey, Soy Miguel Ángel! 👋👨‍💻</h1>
 
 <p align="center">
   <a href="https://github.com/miguelmtnezz"><img src="https://github-readme-stats.vercel.app/api?username=miguelmtnezz&show_icons=true" alt="miguelmtnezz's github stats"></a>

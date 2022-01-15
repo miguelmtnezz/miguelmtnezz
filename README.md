@@ -1,21 +1,23 @@
 <!--
 [banner]()
 -->
-<h1 align="center">Hey, Soy Miguel Ángel! 👋👨‍💻</h1>
+<h1 align="center">Hola, soy Miguel Ángel! 👋👨‍💻</h1>
 
-<p align="center">
+## 📊 GitHub Stats
+<p align="left">
   <a href="https://github.com/miguelmtnezz"><img src="https://github-readme-stats.vercel.app/api?username=miguelmtnezz&show_icons=true" alt="miguelmtnezz's github stats"></a>
+  <a href="https://github.com/miguelmtnezz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmtnezz&layout=compact" alt="miguelmtnezz's languages"></a>
 </p>
 
 Actualmente soy estudiante de 2º año como **Técnico Superior de Administración de Sistemas Informáticos en Red**, en Almería, España .
 
-### 🌱 Lenguajes que estoy aprendiendo ...
+## 🌱 Lenguajes que estoy aprendiendo ...
   - HTML && CSS && JS
   - Python
   - Powershell
   - Ansible
 
-### 💬 Preguntame sobre ...
+## 💬 Preguntame sobre ...
   - AWS / Google Cloud / Azure
   - Docker
   - MySQL

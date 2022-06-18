@@ -9,7 +9,7 @@
   <a href="https://github.com/miguelmtnezz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmtnezz&layout=compact" alt="miguelmtnezz's languages"></a>
 </p>
 
-Actualmente soy estudiante de 2º año como **Técnico Superior de Administración de Sistemas Informáticos en Red**, en Almería, España .
+Actualmente soy **Técnico Superior de Administración de Sistemas Informáticos en Red**, en Almería, España .
 
 ## 🌱 Lenguajes que estoy aprendiendo ...
   - HTML && CSS && JS

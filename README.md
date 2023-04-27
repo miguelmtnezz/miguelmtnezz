@@ -11,10 +11,12 @@
 
 Actualmente soy **Técnico Superior de Administración de Sistemas Informáticos en Red**, en Almería, España .
 
-<div style="width:60px ; height:60px">
-![1-associate-logo](https://user-images.githubusercontent.com/73715988/234959846-1b9bc8d3-44c9-416a-98cb-8e7e0851f3fe.png)
-![2-associate-logo](https://user-images.githubusercontent.com/73715988/234959851-abb7c2ae-bbd8-4328-94a2-377c940d17ac.png)
+<div class="logros" alint="left">
+<img align="center" src="https://user-images.githubusercontent.com/73715988/234959846-1b9bc8d3-44c9-416a-98cb-8e7e0851f3fe.png" height="60px" width="60px" />
+<img align="center" src="https://user-images.githubusercontent.com/73715988/234959851-abb7c2ae-bbd8-4328-94a2-377c940d17ac.png" height="60px" width="60px" />
 </div>
+
+
 
 ## 🌱 Lenguajes que estoy aprendiendo ...
   - HTML && CSS && JS

@@ -7,6 +7,7 @@
 <p align="left">
   <a href="https://github.com/miguelmtnezz"><img src="https://github-readme-stats.vercel.app/api?username=miguelmtnezz&show_icons=true" alt="miguelmtnezz's github stats"></a>
   <a href="https://github.com/miguelmtnezz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmtnezz&layout=compact" alt="miguelmtnezz's languages"></a>
+  <a href="https://user-images.githubusercontent.com/73715988/235344464-f594d371-97fc-4774-b257-04616cf5902c.png" alt="miguelmtnezz's languages"></a>
 </p>
 
 Actualmente soy **Técnico Superior de Administración de Sistemas Informáticos en Red**, en Almería, España .

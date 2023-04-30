@@ -7,14 +7,14 @@
 <p align="left">
   <a href="https://github.com/miguelmtnezz"><img src="https://github-readme-stats.vercel.app/api?username=miguelmtnezz&show_icons=true" alt="miguelmtnezz's github stats"></a>
   <a href="https://github.com/miguelmtnezz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmtnezz&layout=compact" alt="miguelmtnezz's languages"></a>
-  <a href="https://user-images.githubusercontent.com/73715988/235344464-f594d371-97fc-4774-b257-04616cf5902c.png" alt="miguelmtnezz's languages"></a>
 </p>
 
-Actualmente soy **Técnico Superior de Administración de Sistemas Informáticos en Red**, en Almería, España .
+Actualmente soy **Técnico Superior de Administración de Sistemas Informáticos en Red**, en Almería, España.
 
 <div class="logros" alint="left">
 <img align="center" src="https://user-images.githubusercontent.com/73715988/234959846-1b9bc8d3-44c9-416a-98cb-8e7e0851f3fe.png" height="60px" width="60px" />
 <img align="center" src="https://user-images.githubusercontent.com/73715988/234959851-abb7c2ae-bbd8-4328-94a2-377c940d17ac.png" height="60px" width="60px" />
+<img align="center" src="https://user-images.githubusercontent.com/73715988/235344464-f594d371-97fc-4774-b257-04616cf5902c.png" height="60px" width="60px" />
 </div>
 
 
